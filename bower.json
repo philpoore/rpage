@@ -1,4 +1,4 @@
-{
+ {
   "name": "tsg-rpage",
   "homepage": "https://github.com/the-support-group/rpage",
   "authors": [
@@ -6,7 +6,6 @@
         "Junior Pennicot"
     ],
   "description": "Highly responsive pagination for Bootstrap.",
-  "version": "1.0.0",
   "keywords": [
     "js",
     "responsive",
