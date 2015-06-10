@@ -1,5 +1,10 @@
 {
-  "name": "rpage",
+  "name": "tsg-rpage",
+  "homepage": "https://github.com/the-support-group/rpage",
+  "authors": [
+        "Craig Smith",
+        "Junior Pennicot"
+    ],
   "description": "Highly responsive pagination for Bootstrap.",
   "version": "1.0.0",
   "keywords": [
@@ -8,10 +13,18 @@
     "bootstrap",
     "plugin"
   ],
-  "homepage": "http://auxiliary.github.io/rpage/",
   "main": [
     "responsive-paginate.js"
   ],
+  "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "spec",
+        "scripts",
+        "content",
+        ".gitignore"
+    ],
   "dependencies": {
     "bootstrap": ">= 3.0.0",
     "jquery": ">= 1.9.1"
