@@ -1,0 +1,16 @@
+{
+    "name": "rpage",
+    "description": "Highly responsive pagination for Bootstrap.",
+    "version": "2.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/philpoore/rpage",
+    "author": "phil <phil.poore@easyfundraising.org.uk>",
+    "license": "MIT",
+    "devDependencies": {
+        "webpack": "^4.6.0",
+        "webpack-cli": "^2.0.15"
+    },
+    "peerDependencies": {
+        "jquery": "^3.3.1"
+    }
+}
